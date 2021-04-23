@@ -5,9 +5,8 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "es2017",
-      "esnext.asynciterable",
-      "scripthost"
+      "scripthost",
+      "es2020"
     ],
     "module": "esnext",
     "target": "es2017"
